@@ -15,6 +15,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".Game" />
+        <activity android:name=".BuyTicket" />
+        <activity android:name=".TicketsController" />
     </application>
 
 </manifest>
